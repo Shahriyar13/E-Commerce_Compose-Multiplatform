@@ -5,4 +5,6 @@ K-Commerce-CMP is free open-source kotlin multiplatform e-commerce with 99% shar
 <br>
 
 ## Open-source libraries
-- [Pokedex](https://github.com/MohamedRejeb/Pokedex): Compose Multiplatform Example by [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohamedRejeb/)
+All references of:
+- [Pokedex](https://github.com/MohamedRejeb/Pokedex): Compose Multiplatform Example <br>
+by [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohamedRejeb/)
