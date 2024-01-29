@@ -1,5 +1,7 @@
 *.iml
 .gradle
+.git
+.github
 .idea
 .DS_Store
 build
