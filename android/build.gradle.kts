@@ -1,6 +1,6 @@
-import com.mocoding.pokedex.Configuration
-import com.mocoding.pokedex.Deps
-import com.mocoding.pokedex.Versions
+import app.duss.kcommerce.Configuration
+import app.duss.kcommerce.Deps
+import app.duss.kcommerce.Versions
 
 plugins {
     id("com.android.application")
@@ -8,10 +8,10 @@ plugins {
 }
 
 android {
-    namespace = "com.mocoding.pokedex.android"
+    namespace = "app.duss.kcommerce.android"
     compileSdk = Configuration.compileSdk
     defaultConfig {
-        applicationId = "com.mocoding.pokedex.android"
+        applicationId = "app.duss.kcommerce.android"
         minSdk = Configuration.minSdk
         targetSdk = Configuration.targetSdk
         versionCode = Configuration.versionCode
