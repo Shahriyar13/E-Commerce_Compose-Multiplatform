@@ -5,9 +5,9 @@ import com.arkivanov.essenty.lifecycle.LifecycleRegistry
 import com.arkivanov.essenty.lifecycle.resume
 import com.arkivanov.mvikotlin.core.utils.setMainThreadId
 import com.arkivanov.mvikotlin.main.store.DefaultStoreFactory
-import com.mocoding.pokedex.core.di.initKoin
-import com.mocoding.pokedex.ui.ContentView
-import com.mocoding.pokedex.ui.root.RootComponent
+import app.duss.kcommerce.core.di.initKoin
+import app.duss.kcommerce.ui.ContentView
+import app.duss.kcommerce.ui.root.RootComponent
 import javax.swing.SwingUtilities
 
 fun main() {
@@ -30,7 +30,7 @@ fun main() {
 
     application {
         Window(
-            title = "Pokedex",
+            title = "KCommerce",
             onCloseRequest = ::exitApplication
         ) {
             ContentView(
