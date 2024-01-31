@@ -5,7 +5,7 @@ plugins {
     id("org.jetbrains.compose")
 }
 
-group = "com.mocoding"
+group = "app.duss"
 version = "1.0.0-SNAPSHOT"
 
 kotlin {
