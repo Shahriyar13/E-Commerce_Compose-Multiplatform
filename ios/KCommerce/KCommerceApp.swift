@@ -1,6 +1,6 @@
 //
-//  PokedexApp.swift
-//  Pokedex
+//  KCommerceApp.swift
+//  KCommerce
 //
 //  Created by Mohamed Ben Rejeb on 11/3/2023.
 //
@@ -10,7 +10,7 @@ import shared
 
 
 @main
-struct PokedexApp: App {
+struct KCommerceApp: App {
     @Environment(\.scenePhase) private var scenePhase
     private var lifecycleHolder: LifecycleHolder { LifecycleHolder() }
     

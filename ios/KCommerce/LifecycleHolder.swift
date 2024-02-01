@@ -1,6 +1,6 @@
 //
 //  LifecycleHolder.swift
-//  Pokedex
+//  KCommerce
 //
 //  Created by Mohamed Ben Rejeb on 12/3/2023.
 //

@@ -1,13 +1,13 @@
 //
-//  PokedexUITestsLaunchTests.swift
-//  PokedexUITests
+//  KCommerceUITestsLaunchTests.swift
+//  KCommerceUITests
 //
 //  Created by Mohamed Ben Rejeb on 11/3/2023.
 //
 
 import XCTest
 
-final class PokedexUITestsLaunchTests: XCTestCase {
+final class KCommerceUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

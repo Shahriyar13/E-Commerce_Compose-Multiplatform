@@ -1,14 +1,14 @@
 //
-//  PokedexTests.swift
-//  PokedexTests
+//  KCommerceTests.swift
+//  KCommerceTests
 //
 //  Created by Mohamed Ben Rejeb on 11/3/2023.
 //
 
 import XCTest
-@testable import Pokedex
+@testable import KCommerce
 
-final class PokedexTests: XCTestCase {
+final class KCommerceTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

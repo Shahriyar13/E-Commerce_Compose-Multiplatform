@@ -1,13 +1,13 @@
 //
-//  PokedexUITests.swift
-//  PokedexUITests
+//  KCommerceUITests.swift
+//  KCommerceUITests
 //
 //  Created by Mohamed Ben Rejeb on 11/3/2023.
 //
 
 import XCTest
 
-final class PokedexUITests: XCTestCase {
+final class KCommerceUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
