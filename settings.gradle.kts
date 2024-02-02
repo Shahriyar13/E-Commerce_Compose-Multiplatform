@@ -14,7 +14,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Pokedex"
+rootProject.name = "KCommerce"
 include(":android")
 include(":desktop")
 include(":shared")
