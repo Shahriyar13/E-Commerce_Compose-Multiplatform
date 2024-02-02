@@ -1,5 +1,5 @@
-import com.mocoding.pokedex.Configuration
-import com.mocoding.pokedex.Deps
+import app.duss.kcommerce.Configuration
+import app.duss.kcommerce.Deps
 
 plugins {
     kotlin("multiplatform")
@@ -30,7 +30,7 @@ kotlin {
     iosSimulatorArm64()
 
     cocoapods {
-        summary = "Pokedex the Shared Module"
+        summary = "KCommerce the Shared Module"
         homepage = "Link to the Shared Module homepage"
         version = "1.0.0"
         ios.deploymentTarget = "14.1"
@@ -173,7 +173,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.mocoding.pokedex"
+    namespace = "app.duss.kcommerce"
     compileSdk = Configuration.compileSdk
     defaultConfig {
         minSdk = Configuration.minSdk
@@ -187,7 +187,7 @@ android {
 sqldelight {
     databases {
         create("PokemonDatabase") {
-            packageName.set("com.mocoding.pokedex.core.database")
+            packageName.set("app.duss.kcommerce.core.database")
         }
     }
 }
